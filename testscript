@@ -1,0 +1,3 @@
+% Config params, overwrite any previous settings from the commandline
+config ssid 		"Dung\ Dinh\ Cafe"
+config password	camonquykhach
